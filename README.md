@@ -1,4 +1,4 @@
-# PROYECTO c - CONVERSOR DE MONEDAS
+# PROYECTO C - CONVERSOR DE MONEDAS
 
 ## DESCRIPCION
 Este proyecto es un programa en lenguaje C que permite convertir monedas entre dolares, quetzales y euros 
